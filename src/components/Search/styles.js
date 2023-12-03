@@ -27,7 +27,7 @@ export const Input = styled.input`
   flex-grow: 1;
   background: inherit;
   border: none;
-  padding: 6px;
+  margin: 0 0.3rem;
 `
 
 export const Icon = styled(MagnifyingIcon)`
